@@ -8,7 +8,7 @@
 
 ## 🎯 Objective
 
-Lets evaluate whether **vector-based similarity search** can produce more accurate and explainable patient-clinician matches than the existing rules-based algorithm.
+Evaluate whether **vector-based similarity search** can produce more accurate and explainable patient-clinician matches than the existing rules-based algorithm.
 
 This POC focuses exclusively on the vector search layer, using embeddings and cosine similarity across patient and clinician vectors. Traditional filters such as distance from search zip code and clinician panel status are **not in scope**.
 
