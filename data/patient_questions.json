@@ -1,0 +1,171 @@
+[
+  {
+    "Patient Question #": "Q1",
+    "Patient Question": "Who should lead the conversation?",
+    "Question type": "Single Select",
+    "Patient Response": [
+      "Me",
+      "My doctor",
+      "We work as a team"
+    ]
+  },
+  {
+    "Patient Question #": "Q2",
+    "Patient Question": "During diagnosis and treatment, I prefer my doctor to:",
+    "Question type": "Single Select",
+    "Patient Response": [
+      "Think things through out loud",
+      "Take time to process information before sharing it"
+    ]
+  },
+  {
+    "Patient Question #": "Q3",
+    "Patient Question": "Which clinical services would you like your doctor to provide in-office?",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "ADHD diagnosis and care",
+      "Allergy management",
+      "Basic mental health care",
+      "Basic skin care",
+      "Birth Control",
+      "HIV and AIDS management",
+      "Hormone replacement therapy",
+      "Integrated behavioral health",
+      "Multiple or complex chronic disease management",
+      "Participation in clinical trials",
+      "Services related to sports participation",
+      "Services related to travel and immigration",
+      "Services related to worker's compensation or disability claims",
+      "Weight management",
+      "Other"
+    ]
+  },
+  {
+    "Patient Question #": "Q4",
+    "Patient Question": "How interested are you in receiving guidance from your doctor about natural and integrative medicine?",
+    "Question type": "Single Select",
+    "Patient Response": [
+      "Very interested",
+      "Somewhat interested",
+      "Not interested"
+    ]
+  },
+  {
+    "Patient Question #": "Q4-1",
+    "Patient Question": "Which natural and integrative medicine treatments would you like your doctor to include in your care plan?",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "Acupuncture",
+      "Chiropractic therapy",
+      "Food as medicine",
+      "Herbal supplements",
+      "Homeopathy",
+      "Massage therapy",
+      "Medical marijuana",
+      "Meditation",
+      "Psychedelics / Microdosing",
+      "Reiki",
+      "Vitamin Supplements",
+      "Other"
+    ]
+  },
+  {
+    "Patient Question #": "Q5",
+    "Patient Question": "What languages are you comfortable speaking with your doctor during a visit?",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "Arabic",
+      "Chinese",
+      "English",
+      "French",
+      "German",
+      "Haitian Creole",
+      "Hindi",
+      "Italian",
+      "Korean",
+      "Navajo",
+      "Portuguese",
+      "Russian",
+      "Sign Language (ASL)",
+      "Spanish",
+      "Tagalog",
+      "Vietnamese",
+      "Prefer not to say",
+      "Other"
+    ]
+  },
+  {
+    "Patient Question #": "Q6",
+    "Patient Question": "What is your gender identity?",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "Woman",
+      "Man",
+      "Non-binary",
+      "Transgender",
+      "Agender",
+      "Cisgender",
+      "Genderfluid",
+      "Genderqueer",
+      "Pangender",
+      "Questioning or uncertain",
+      "Two spirit",
+      "Prefer not to say",
+      "Other"
+    ]
+  },
+  {
+    "Patient Question #": "Q6-1",
+    "Patient Question": "Do you prefer a doctor who shares the same gender identity?",
+    "Question type": "Single Select",
+    "Patient Response": [
+      "Yes",
+      "No preference"
+    ]
+  },
+  {
+    "Patient Question #": "Q7",
+    "Patient Question": "Have you served or are you currently serving in the US or another country's military?",
+    "Question type": "Single Select",
+    "Patient Response": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Patient Question #": "Q8",
+    "Patient Question": "Digital services",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ]
+  },
+  {
+    "Patient Question #": "Q9",
+    "Patient Question": "What areas of health care should your doctor have special knowledge or experience in to meet your needs?",
+    "Question type": "Multi-select",
+    "Patient Response": [
+      "Aging well",
+      "BIPOC health",
+      "Body positive care",
+      "Caregiver support",
+      "Caring for deaf and hard of hearing patients",
+      "End of life care",
+      "Gender affirming care",
+      "Immigrant or refugee health",
+      "LGBTQ+ health",
+      "Men's health care",
+      "Women's health care",
+      "Neurodiversity affirming care",
+      "Period positive care",
+      "Sex positive care",
+      "Spiritual care",
+      "Substance use and addiction recovery",
+      "Trauma informed care",
+      "Veteran supportive care",
+      "Other"
+    ]
+  }
+]

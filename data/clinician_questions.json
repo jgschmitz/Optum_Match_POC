@@ -1,0 +1,320 @@
+[
+  {
+    "Clinician Question #": "Q1",
+    "Clinician Question": "Who should lead the conversation?",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "Patient",
+      "Clinician",
+      "Shared"
+    ]
+  },
+  {
+    "Clinician Question #": "Q2",
+    "Clinician Question": "During diagnosis and treatment, I typically:",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "Think things through out loud",
+      "Take time to process information before sharing it"
+    ]
+  },
+  {
+    "Clinician Question #": "Q3",
+    "Clinician Question": "Which clinical services do you offer in-office?",
+    "Question type": "Multi-select",
+    "Clinician Response": [
+      "ADHD diagnosis and care",
+      "Allergy management",
+      "Basic mental health care",
+      "Basic skin care",
+      "Birth Control",
+      "HIV and AIDS management",
+      "Hormone replacement therapy",
+      "Integrated behavioral health",
+      "Multiple or complex chronic disease management",
+      "Participation in clinical trials",
+      "Services related to sports participation",
+      "Services related to travel and immigration",
+      "Services related to worker's compensation or disability claims",
+      "Weight management",
+      "Other"
+    ]
+  },
+  {
+    "Clinician Question #": "Q4",
+    "Clinician Question": "How willing are you to provide guidance to patients interested in natural and integrative medicine?",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "Very willing",
+      "Somewhat willing",
+      "Not willing"
+    ]
+  },
+  {
+    "Clinician Question #": "Q4-1",
+    "Clinician Question": "Which natural and integrative medicine treatments do you support?",
+    "Question type": "Multi-select",
+    "Clinician Response": [
+      "Acupuncture",
+      "Chiropractic therapy",
+      "Food as medicine",
+      "Herbal supplements",
+      "Homeopathy",
+      "Massage therapy",
+      "Medical marijuana",
+      "Meditation",
+      "Psychedelics / Microdosing",
+      "Reiki",
+      "Vitamin Supplements",
+      "Other"
+    ]
+  },
+  {
+    "Clinician Question #": "Q5",
+    "Clinician Question": "What languages are you comfortable speaking with patients?",
+    "Question type": "Multi-select",
+    "Clinician Response": [
+      "Arabic",
+      "Chinese",
+      "English",
+      "French",
+      "German",
+      "Haitian Creole",
+      "Hindi",
+      "Italian",
+      "Korean",
+      "Navajo",
+      "Portuguese",
+      "Russian",
+      "Sign Language (ASL)",
+      "Spanish",
+      "Tagalog",
+      "Vietnamese",
+      "Other"
+    ]
+  },
+  {
+    "Clinician Question #": "Q6",
+    "Clinician Question": "What is your gender identity?",
+    "Question type": "Multi-select",
+    "Clinician Response": [
+      "Agender",
+      "Cisgender",
+      "Genderfluid",
+      "Genderqueer",
+      "Man",
+      "Non-binary",
+      "Pangender",
+      "Questioning or uncertain",
+      "Transgender",
+      "Two Spirit",
+      "Woman",
+      "Other"
+    ]
+  },
+  {
+    "Clinician Question #": "Q7",
+    "Clinician Question": "Have you served or are you currently serving in the US or another country's military?",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "Clinician Question #": "Q8",
+    "Clinician Question": "Which digital services are offered at this office? Select all that apply",
+    "Question type": "Multi-select",
+    "Clinician Response": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ]
+  },
+  {
+    "Clinician Question #": "Q9",
+    "Clinician Question": "Medical and wellness practices that affect aging well",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q10",
+    "Clinician Question": "Meeting the unique health needs of BIPOC patients",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q11",
+    "Clinician Question": "Taking a body positive approach to providing health care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q12",
+    "Clinician Question": "Supporting patients who are caregivers",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q13",
+    "Clinician Question": "Communicating with and meeting the unique needs of patients who are deaf and hard of hearing",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q14",
+    "Clinician Question": "Providing end of life care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q15",
+    "Clinician Question": "Providing gender-affirming care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q16",
+    "Clinician Question": "Meeting the unique health care needs of patients who are immigrants or refugees",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q17",
+    "Clinician Question": "Meeting the unique health care needs of LGBTQ+ patients",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q18",
+    "Clinician Question": "Providing comprehensive men's health care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q19",
+    "Clinician Question": "Providing comprehensive women's health care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q20",
+    "Clinician Question": "Taking a neurodiversity-affirming care approach to providing health care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q21",
+    "Clinician Question": "Providing period positive care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q22",
+    "Clinician Question": "Providing sex positive care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q23",
+    "Clinician Question": "Providing substance use and addiction recovery care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q24",
+    "Clinician Question": "Taking a trauma-informed approach to providing health care",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q25",
+    "Clinician Question": "Meeting the unique health care needs of veterans",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q26",
+    "Clinician Question": "Providing spiritual support",
+    "Question type": "Single Select",
+    "Clinician Response": [
+      "I'm formally trained or considered an expert in this area",
+      "I'm supportive and have experience, but not formally trained in this area",
+      "I have limited experience and no formal training in this area"
+    ]
+  },
+  {
+    "Clinician Question #": "Q27",
+    "Clinician Question": "What other types of care are you formally trained or considered an expert in?",
+    "Question type": "Free response",
+    "Clinician Response": "Free text"
+  }
+]

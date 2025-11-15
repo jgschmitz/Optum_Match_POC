@@ -1,0 +1,389 @@
+[
+  {
+    "patientId": 1,
+    "Q1": "Me",
+    "Q2": "Think things through out loud",
+    "Q3": [
+      "Basic mental health care",
+      "Birth Control",
+      "HIV and AIDS management",
+      "Integrated behavioral health",
+      "Weight management",
+      "Allergy management"
+    ],
+    "Q4": "Very interested",
+    "Q4-1": [
+      "Acupuncture",
+      "Herbal supplements",
+      "Meditation",
+      "Food as medicine",
+      "Massage therapy",
+      "Vitamin Supplements"
+    ],
+    "Q5": [
+      "English",
+      "Arabic"
+    ],
+    "Q6": "Woman",
+    "Q6-1": "No preference",
+    "Q7": "No",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Body positive care",
+      "LGBTQ+ health",
+      "Gender affirming care",
+      "Neurodiversity affirming care",
+      "Substance use and addiction recovery",
+      "Trauma informed care"
+    ]
+  },
+  {
+    "patientId": 2,
+    "Q1": "We work as a team",
+    "Q2": "Take time to process information before sharing it",
+    "Q3": [
+      "Basic skin care",
+      "Participation in clinical trials",
+      "ADHD diagnosis and care",
+      "Basic mental health care",
+      "Services related to sports participation"
+    ],
+    "Q4": "Somewhat interested",
+    "Q4-1": [
+      "Medical marijuana",
+      "Meditation",
+      "Reiki",
+      "Vitamin Supplements",
+      "Food as medicine"
+    ],
+    "Q5": "Sign Language (ASL)",
+    "Q6": "Prefer not to say",
+    "Q6-1": "Yes",
+    "Q7": "Yes",
+    "Q8": [
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Men's health care",
+      "Aging well",
+      "End of life care",
+      "Veteran supportive care",
+      "Spiritual care"
+    ]
+  },
+  {
+    "patientId": 3,
+    "Q1": "My doctor",
+    "Q2": "Think things through out loud",
+    "Q3": [
+      "Hormone replacement therapy",
+      "HIV and AIDS management",
+      "Multiple or complex chronic disease management",
+      "Services related to travel and immigration",
+      "Weight management",
+      "Allergy management",
+      "Basic skin care"
+    ],
+    "Q4": "Very interested",
+    "Q4-1": [
+      "Homeopathy",
+      "Herbal supplements",
+      "Acupuncture",
+      "Massage therapy",
+      "Reiki",
+      "Psychedelics / Microdosing",
+      "Other"
+    ],
+    "Q5": [
+      "English",
+      "Vietnamese"
+    ],
+    "Q6": "Transgender",
+    "Q6-1": "No preference",
+    "Q7": "No",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic prescription refill"
+    ],
+    "Q9": [
+      "LGBTQ+ health",
+      "Gender affirming care",
+      "Trauma informed care",
+      "Period positive care",
+      "Sex positive care",
+      "Body positive care",
+      "Caring for deaf and hard of hearing patients"
+    ]
+  },
+  {
+    "patientId": 4,
+    "Q1": "We work as a team",
+    "Q2": "Take time to process information before sharing it",
+    "Q3": [
+      "ADHD diagnosis and care",
+      "Integrated behavioral health",
+      "Basic mental health care",
+      "Multiple or complex chronic disease management",
+      "Weight management"
+    ],
+    "Q4": "Somewhat interested",
+    "Q4-1": [
+      "Meditation",
+      "Food as medicine",
+      "Vitamin Supplements",
+      "Chiropractic therapy",
+      "Acupuncture"
+    ],
+    "Q5": [
+      "English",
+      "French"
+    ],
+    "Q6": "Woman",
+    "Q6-1": "No preference",
+    "Q7": "No",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Aging well",
+      "Body positive care",
+      "Caregiver support",
+      "Spiritual care",
+      "Trauma informed care"
+    ]
+  },
+  {
+    "patientId": 5,
+    "Q1": "My doctor",
+    "Q2": "Think things through out loud",
+    "Q3": [
+      "Birth Control",
+      "Basic skin care",
+      "Basic mental health care",
+      "Services related to travel and immigration",
+      "Services related to worker's compensation or disability claims",
+      "Integrated behavioral health"
+    ],
+    "Q4": "Very interested",
+    "Q4-1": [
+      "Food as medicine",
+      "Herbal supplements",
+      "Homeopathy",
+      "Meditation",
+      "Reiki",
+      "Vitamin Supplements",
+      "Medical marijuana"
+    ],
+    "Q5": [
+      "English",
+      "Sign Language (ASL)"
+    ],
+    "Q6": "Woman",
+    "Q6-1": "Yes",
+    "Q7": "No",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Women's health care",
+      "Period positive care",
+      "LGBTQ+ health",
+      "Sex positive care",
+      "Spiritual care",
+      "End of life care",
+      "Substance use and addiction recovery"
+    ]
+  },
+  {
+    "patientId": 6,
+    "Q1": "Me",
+    "Q2": "Take time to process information before sharing it",
+    "Q3": [
+      "HIV and AIDS management",
+      "Hormone replacement therapy",
+      "Basic mental health care",
+      "Services related to sports participation",
+      "Weight management"
+    ],
+    "Q4": "Not interested",
+    "Q5": "Spanish",
+    "Q6": "Man",
+    "Q6-1": "No preference",
+    "Q7": "Yes",
+    "Q8": [
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Men's health care",
+      "Substance use and addiction recovery",
+      "Trauma informed care",
+      "Veteran supportive care",
+      "Body positive care"
+    ]
+  },
+  {
+    "patientId": 7,
+    "Q1": "We work as a team",
+    "Q2": "Think things through out loud",
+    "Q3": [
+      "Basic skin care",
+      "Allergy management",
+      "ADHD diagnosis and care",
+      "Birth Control",
+      "Basic mental health care",
+      "Integrated behavioral health"
+    ],
+    "Q4": "Somewhat interested",
+    "Q4-1": [
+      "Chiropractic therapy",
+      "Massage therapy",
+      "Food as medicine",
+      "Meditation",
+      "Vitamin Supplements"
+    ],
+    "Q5": [
+      "English",
+      "Spanish"
+    ],
+    "Q6": "Man",
+    "Q6-1": "No preference",
+    "Q7": "No",
+    "Q8": [
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Aging well",
+      "BIPOC health",
+      "Body positive care",
+      "LGBTQ+ health",
+      "Men's health care",
+      "Spiritual care"
+    ]
+  },
+  {
+    "patientId": 8,
+    "Q1": "My doctor",
+    "Q2": "Take time to process information before sharing it",
+    "Q3": [
+      "Services related to worker's compensation or disability claims",
+      "Multiple or complex chronic disease management",
+      "Participation in clinical trials",
+      "Weight management",
+      "HIV and AIDS management",
+      "Basic mental health care",
+      "Allergy management"
+    ],
+    "Q4": "Very interested",
+    "Q4-1": [
+      "Acupuncture",
+      "Medical marijuana",
+      "Psychedelics / Microdosing",
+      "Reiki",
+      "Herbal supplements",
+      "Food as medicine"
+    ],
+    "Q5": [
+      "English",
+      "Spanish"
+    ],
+    "Q6": [
+      "Woman",
+      "Cisgender"
+    ],
+    "Q6-1": "Yes",
+    "Q7": "No",
+    "Q8": [
+      "Electronic prescription refill",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Neurodiversity affirming care",
+      "Gender affirming care",
+      "Trauma informed care",
+      "Substance use and addiction recovery",
+      "Sex positive care",
+      "Period positive care",
+      "LGBTQ+ health"
+    ]
+  },
+  {
+    "patientId": 9,
+    "Q1": "We work as a team",
+    "Q2": "Think things through out loud",
+    "Q3": [
+      "Allergy management",
+      "Services related to sports participation",
+      "Birth Control",
+      "Basic skin care",
+      "Basic mental health care"
+    ],
+    "Q4": "Somewhat interested",
+    "Q4-1": [
+      "Chiropractic therapy",
+      "Massage therapy",
+      "Acupuncture",
+      "Homeopathy",
+      "Other"
+    ],
+    "Q5": [
+      "English",
+      "Vietnamese"
+    ],
+    "Q6": "Questioning or uncertain",
+    "Q6-1": "No preference",
+    "Q7": "Yes",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic prescription refill"
+    ],
+    "Q9": [
+      "Immigrant or refugee health",
+      "LGBTQ+ health",
+      "Caring for deaf and hard of hearing patients",
+      "Spiritual care",
+      "Body positive care"
+    ]
+  },
+  {
+    "patientId": 10,
+    "Q1": "Me",
+    "Q2": "Take time to process information before sharing it",
+    "Q3": [
+      "Hormone replacement therapy",
+      "Integrated behavioral health",
+      "Basic mental health care",
+      "Services related to travel and immigration",
+      "Weight management"
+    ],
+    "Q4": "Not interested",
+    "Q5": [
+      "English",
+      "French"
+    ],
+    "Q6": "Woman",
+    "Q6-1": "Yes",
+    "Q7": "No",
+    "Q8": [
+      "Contactless check-in (kiosk or mobile)",
+      "Electronic medical records"
+    ],
+    "Q9": [
+      "Women's health care",
+      "Trauma informed care",
+      "Aging well",
+      "BIPOC health",
+      "Period positive care",
+      "Substance use and addiction recovery",
+      "End of life care"
+    ]
+  }
+]
