@@ -6,8 +6,8 @@ from typing import List, Dict, Any
 # -------------------------------
 # CONFIG — EDIT THESE
 # -------------------------------
-MONGO_URI = "mongodb+srv://jschmitz:gcp2025@darkstar.tnhx6.mongodb.net/"
-VOYAGE_API_KEY = "pa-7dduYV1BTZVrUAFXlQqmkAhFk90TWQcL4Cah5I7oh9H"
+MONGO_URI = ""
+VOYAGE_API_KEY = ""
 
 DB_NAME = "Optum_Match"
 PATIENT_COLL = "patient_survey_responses"
